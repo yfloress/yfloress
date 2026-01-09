@@ -51,6 +51,9 @@
           <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
             <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
           </a>
+          <a href="https://nixos.org/" target="_blank" rel="noreferrer">
+            <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+          </a>
           <a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer">
             <img width="30" src="https://cdn.simpleicons.org/qubesos" />
           </a>
@@ -141,6 +144,9 @@
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           </a>
+          <a href="https://podman.io/" target="_blank" rel="noreferrer">
+            <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" />
+          </a>
           <a href="https://www.qemu.org/" target="_blank" rel="noreferrer">
             <img width="30" src="https://cdn.simpleicons.org/qemu" />
           </a>
@@ -189,18 +195,19 @@
 
 <p align="center">
   <a href="https://github.com/yfloress" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt="github" style="margin-bottom: 5px;" />
+    <img height="32" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt="github" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/yair-f-51b43835b" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
+    <img height="32" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="linkedin" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://codeberg.org/Kyronix" target="_blank" rel="noreferrer">
-    <img width="32" src="https://cdn.simpleicons.org/codeberg" alt="codeberg" style="margin-bottom: 5px;" />
+    <img height="32" src="https://cdn.simpleicons.org/codeberg" alt="codeberg" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
+
